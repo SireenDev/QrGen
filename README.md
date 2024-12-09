@@ -8,5 +8,4 @@ If you are worried that this is a virus, feel free to check the file with Virus 
 
 # How to install and run
 
-When you are ready to run the file, please open the folder in CMD and type the following command:
-```pip install -r requirements.txt```
+When you are ready to use the program, please run "install.bat" to install the required modules.
