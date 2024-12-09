@@ -5,3 +5,8 @@ This generator is the best QR code generator because you don't have to rely on a
 Our QR code generator doesn't link to any other sites except for the site that you put inside of the input.
 
 If you are worried that this is a virus, feel free to check the file with Virus Total, or even check the code inside of the file "main2.py".
+
+# How to install and run
+
+When you are ready to run the file, please open the folder in CMD and type the following command:
+```pip install -r requirements.txt```
